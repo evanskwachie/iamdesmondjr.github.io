@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Comic Sans MS;
+}
+
+.tny-navbar{
+	background-color: #fff;
+	font-family: Comic Sans MS;
+	/*color: #222;*/
+}
+
+.tny-navbar ul li a{
+	/*background-color: #fff;*/
+	color: #13c183;
+}
+
+.tny-navbar ul li a:hover{
+	background-color:  #13c183;
+	color: #fff;
+} 
+
+.btn-def{
+	border: 2px solid  #56a2f3; 
+	background-color: #fff; 
+	color: #56a2f3;
+}
+
+.btn-def:hover{
+	background-color:#56a2f3;
+	color: #fff;
+}
+
+.btn-htm{
+	border: 2px solid  #13c183; 
+	background-color: #fff;
+	color: #13c183;
+}
+
+.btn-htm:hover{
+	background-color:#13c183;
+	color: #fff;
+}
+
+.btn-css{
+	border: 2px solid red; 
+	background-color: #fff;
+	color: red;
+}
+
+.btn-css:hover{
+	background-color: red;
+	color: #fff;
+}
+
+.btn-js{
+	border: 2px solid #f4b902; 
+	background-color: #fff;
+	color: #f4b902;
+}
+
+.btn-js:hover{
+	background-color: #f4b902;
+	color: #fff;
+}
+
+.btn-cplus{
+	border: 2px solid #313b44; 
+	background-color: #fff;
+	color: #313b44;
+}
+
+.btn-cplus:hover{
+	background-color: #313b44;
+	color: #fff;
+}
+
+.btn-sql{
+	border: 2px solid #de499d; 
+	background-color: #fff;
+	color: #de499d;
+}
+
+.btn-sql:hover{
+	background-color: #de499d;
+	color: #fff;
+}
+
+/*input .search{
+	border: 2px solid #13c183;
+}*/
+
